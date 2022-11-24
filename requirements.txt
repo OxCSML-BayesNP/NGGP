@@ -1,0 +1,4 @@
+particles==0.1
+pandas
+numba
+seaborn
